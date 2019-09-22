@@ -1,0 +1,5 @@
+name = input('enter your name: ')
+age = ('enter your age: ')
+x = 100 - int(age)
+y = 2019 + (x)
+print('hey' + name + '!, youll turn 100 years in' ,y)
